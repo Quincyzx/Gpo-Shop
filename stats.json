@@ -1,6 +1,6 @@
 {
-  "total_sold": 0,
+  "total_sold": 1,
   "vouches": 0,
-  "pending_tickets": 0,
-  "total_revenue": 0
+  "pending_tickets": 1,
+  "total_revenue": 40
 }
