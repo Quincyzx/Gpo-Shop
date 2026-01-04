@@ -4,5 +4,11 @@
     "action": "registered",
     "timestamp": "2026-01-04T11:07:19.226490",
     "details": "Key: HONOR-9F3A-KQ7M-L2X8-RP4D"
+  },
+  {
+    "user_id": "1352126728083996793",
+    "action": "completed",
+    "timestamp": "2026-01-04T11:07:47.219166",
+    "details": "Vouched by honorsells"
   }
 ]
